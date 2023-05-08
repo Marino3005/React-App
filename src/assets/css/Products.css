@@ -1,0 +1,15 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+button{
+    all: unset
+}
+
+.revelarProd{
+    display:none
+}

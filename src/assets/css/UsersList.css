@@ -1,0 +1,15 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+li {
+    list-style: none;
+}
+
+.revelarUsu{
+    display: none;
+}
